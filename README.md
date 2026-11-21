@@ -39,3 +39,21 @@ The analysis shows that previous grades (G1 and G2) have a strong relationship w
 Karthik Kandula
 
 B.Tech – Computer Science and Engineering (Data Science)
+
+
+---
+
+## 📸 Project Screenshots
+
+### 1. Dataset Preview
+![Dataset Preview](IMG-20261121-WA0007.jpg)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](IMG-20261121-WA0008.jpg)
+
+### 3. Student Performance Classification
+![Performance Classification](IMG-20261121-WA0009.jpg)
+
+### 4. Grade Analysis
+![Grade Analysis](IMG-20261121-WA0010.jpg)
+
