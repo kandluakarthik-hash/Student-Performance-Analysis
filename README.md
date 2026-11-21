@@ -41,19 +41,19 @@ Karthik Kandula
 B.Tech – Computer Science and Engineering (Data Science)
 
 
+
 ---
 
 ## 📸 Project Screenshots
 
-### 1. Dataset Preview
-![Dataset Preview](IMG-20261121-WA0007.jpg)
+### 1. Grade Distribution Analysis
+![Grade Distribution](IMG-20261121-WA0007.jpg)
 
-### 2. Correlation Heatmap
-![Correlation Heatmap](IMG-20261121-WA0008.jpg)
+### 2. Student Performance Classification
+![Performance Classification](IMG-20261121-WA0008.jpg)
 
-### 3. Student Performance Classification
-![Performance Classification](IMG-20261121-WA0009.jpg)
+### 3. Correlation Heatmap
+![Correlation Heatmap](IMG-20261121-WA0009.jpg)
 
-### 4. Grade Analysis
-![Grade Analysis](IMG-20261121-WA0010.jpg)
-
+### 4. Dataset Preview
+![Dataset Preview](IMG-20261121-WA0010.jpg)
